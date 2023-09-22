@@ -1,0 +1,62 @@
+{
+  "buyerList": [
+    {
+      "name": "linh",
+      "email": "linh@123",
+      "phoneNumber": "123",
+      "block": false,
+      "id": 7,
+      "avatar": "https://haycafe.vn/wp-content/uploads/2022/02/Hinh-anh-con-gai-cute-de-thuong-hoat-hinh.jpg",
+      "password": "123",
+      "cart": []
+    },
+    {
+      "name": "tuan",
+      "email": "l@123",
+      "phoneNumber": "123",
+      "block": false,
+      "id": 6,
+      "password": "123",
+      "cart": []
+    },
+    {
+      "id": 3,
+      "name": "nguyên",
+      "email": "n@123",
+      "phoneNumber": "123",
+      "password": "123",
+      "block": false,
+      "avatar": "https://toigingiuvedep.vn/wp-content/uploads/2021/07/hinh-ve-co-gai-dang-yeu.jpg",
+      "cart": []
+    },
+    {
+      "name": "ngọc",
+      "email": "n@1",
+      "phoneNumber": "1",
+      "password": "1",
+      "block": false,
+      "avatar": "",
+      "cart": [],
+      "id": 4
+    },
+    {
+      "name": "trongkute",
+      "email": "hien@123",
+      "phoneNumber": "123",
+      "block": false,
+      "id": 5
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "admin",
+      "password": "123",
+      "isAdmin": true,
+      "firstName": "Tran",
+      "lastName": "Hien",
+      "email": "hien@gmail.com",
+      "avatar": ""
+    }
+  ]
+}
